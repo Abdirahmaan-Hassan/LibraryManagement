@@ -1,0 +1,23 @@
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Dashboard.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.AddBooksForm.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\Guna.UI.dll
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.ViewBookForm.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.AddStudent.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.ViewStudentInformatio.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.IssueBooks.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.ReturnBook.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.CompleteBookDetails.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.SignUpForm.resources
+c:\users\abdishakuur hassan\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.frmUsers.resources
+C:\Users\Abdishakuur Hassan\Desktop\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\Abdishakuur Hassan\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\Abdishakuur Hassan\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
